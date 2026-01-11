@@ -1,0 +1,1 @@
+This project develops a Multiple Linear Regression (MLR) model to predict the daily closing price of Brent crude oil. By analyzing the relationship between Brent oil and other energy commodities, the study provides actionable insights for energy firms and financial analysts to improve risk management and trading strategies.
